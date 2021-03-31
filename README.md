@@ -4,7 +4,7 @@ This repo houses the assets used to build the Aidchoo front end, available at ht
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To check our back end repository see https://github.com/simoncoz/aidchoo-be
+To check our back end repository see https://github.com/joeysudo/aidchoo-back
 
 You can access our backend API https://aidchoo2.herokuapp.com/
 
