@@ -1,6 +1,6 @@
 # Aidchoo
 
-This repo houses the assets used to build the Aidchoo front end, available at https://aidchoo-fe.herokuapp.com/
+This repo houses the assets used to build the Aidchoo front end, available at https://642a29c512437a7e198730e5--lively-sprinkles-62b8a0.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
