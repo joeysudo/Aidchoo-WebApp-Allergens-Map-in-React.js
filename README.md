@@ -1,6 +1,6 @@
 # Aidchoo
 
-This repo houses the assets used to build the Aidchoo front end, available at https://642a29c512437a7e198730e5--lively-sprinkles-62b8a0.netlify.app/
+This repo houses the assets used to build the Aidchoo front end, available at https://aidchoo.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -45,13 +45,13 @@ The frontend portion of this project lives with the great help of these resource
 
 ## Main features
 
-To test, go to https://aidchoo-fe.herokuapp.com/ and try these features out for yourself!
+To test, go to https://aidchoo.netlify.app/ and try these features out for yourself!
 
 ### 1. User Feature
 
 #### a. Log in and Log out
 
-<br>https://aidchoo-fe.herokuapp.com/login
+<br>https://aidchoo.netlify.app/login
 
 From the front end, a user is able to login.
 Once logged in, they can access the dashboard feature.
@@ -63,28 +63,28 @@ Here's a demo account to test this:
 
 #### b. Sign up
 
-<br>https://aidchoo-fe.herokuapp.com/signup
+<br>https://aidchoo.netlify.app/signup
 
 If a user doesn't have an account they can create one by signing up.
 Upon successful sign-up user gets logged in and redirected to the dashboard page.
 
 #### c. Edit Profile
 
-<br>https://aidchoo-fe.herokuapp.com/profile
+<br>https://aidchoo.netlify.app/profile
 
 A user can edit their profile by heading to the profile page once logged in.
 From here they are able to adjust any fields.
 
 ### 2. Dashboard Feature
 
-<br>https://aidchoo-fe.herokuapp.com/dashboard
+<br>https://aidchoo.netlify.app/dashboard
 
 Once logged, in a user is able to access the daily pollen readings and a custom tip from the allergen dashboard.
 For information on how these readings are sourced, please check out our back end repository.
 
 ### 3. Map
 
-<br>https://aidchoo-fe.herokuapp.com/map
+<br>https://aidchoo.netlify.app/map
 
 Select a button from the drop down to view allergen trees within 500m of popular locations in Melb or
 (if you are close enough to the CBD) click the button to view trees via your browser fetched
