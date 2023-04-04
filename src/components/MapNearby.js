@@ -163,6 +163,6 @@ const loadingDiv = (props) => (
 );
 
 export default GoogleApiWrapper({
-  apiKey: process.env.REACT_APP_GOOGLE_KEY,
+  apiKey: "AIzaSyAsQQ8pFshOroZT4UgAwScz4Y1YtYYfRro",
   LoadingContainer: loadingDiv,
 })(MapNearbyContainer);
