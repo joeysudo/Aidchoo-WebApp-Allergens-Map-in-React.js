@@ -33,11 +33,10 @@ h5 {
 /** Styling for Home page **/
 
 .img-button {
-  max-width: 17%;
+  max-width: 16%;
   font-size: 20px;
   position: absolute;
   left: 8px;
-  top: 6px;
 }
 
 #hero {
@@ -77,7 +76,7 @@ h5 {
   font-weight: 500;
   font-size: 15px;
   display: inline-block;
-  padding: 10px 24px 10px 46px;
+  padding: 8px 24px 8px 40px;
   border-radius: 3px;
   transition: 0.5s;
   color: #fff;
@@ -91,16 +90,14 @@ h5 {
 }
 
 #hero .download-btn + .download-btn {
-  margin-left: 30px;
+  margin-left: 32px;
 }
 
 @media (max-width: 991px) {
   #hero {
     text-align: center;
   }
-  #hero .download-btn + .download-btn {
-    margin: 0 10px;
-  }
+
   #hero .hero-img {
     text-align: center;
   }
